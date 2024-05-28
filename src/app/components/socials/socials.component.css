@@ -5,11 +5,17 @@
 
 .social-media a {
   margin: 0 10px;
-  color: #3c3b6e;
+  color: #6d513d;
   font-size: 24px;
   transition: color 0.3s ease;
 }
 
 .social-media a:hover {
-  color: #fff;
+  color: #b1591a;
+}
+
+.btn{
+  border: 1px solid #b1591a;
+    padding: 10px;
+    border-radius: 50%;
 }

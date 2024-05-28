@@ -14,7 +14,9 @@ body {
   opacity: 1;
   transform: translateY(0);
 }
-
+.container {
+  margin: 0 auto !important;
+}
 nav a {
   transition: color 0.3s ease;
 }

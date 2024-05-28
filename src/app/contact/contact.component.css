@@ -21,11 +21,12 @@ form input, form textarea, form button {
 }
 
 form button {
-  background: rgb(141, 148, 206);
+  background: #6d513d;
   border: none;
   cursor: pointer;
+  color: white;
 }
 
 form button:hover {
-  background: rgb(0, 15, 128);
+  background: #6d513d;
 }
