@@ -1,0 +1,31 @@
+#map {
+  height: 400px;
+  width: 100%;
+  margin: 20px 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form label {
+  margin-top: 10px;
+}
+
+form input, form textarea, form button {
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form button {
+  background: rgb(141, 148, 206);
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: rgb(0, 15, 128);
+}
